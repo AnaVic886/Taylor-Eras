@@ -1,0 +1,41 @@
+body {
+    background: rgb(131, 58, 180);
+    background: #a8a1ff;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+h2 {
+    font-family: "Bowlby One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+}
+/* Formato para img */
+.albums {
+   text-align: center;
+   width: 400px;
+}
+
+.post {
+    width:auto;
+    font-size: 20px;
+    text-align:center;
+}
+
+.cartel {
+    text-align:center;
+    width: 600px;
+    font-size: 40px;
+}
+div{
+    text-align: center;
+}
+
+/* formato para  el div*/
+.Eras {
+    font-size: 26px;
+    color: white;
+}
